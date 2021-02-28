@@ -2,4 +2,4 @@
 
 ## Data for 27 techniques in the paper
 
-[raw_data.csv](../master/raw_data.csv)
+Overall and per-class statistical results for 189 experiments (27 techniques and 7 bias metrics) used in the paper: [raw_data.csv](../master/raw_data.csv)
