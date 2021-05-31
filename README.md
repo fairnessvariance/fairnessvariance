@@ -1,4 +1,4 @@
-# Supplemental materials for "Fairness Variance of Deep Learning  Systems: A Software  Perspective"
+# Supplemental materials for "Are My Deep Learning Systems Fair? An Empirical Study of Fixed-Seed Training"
 
 ## Data for 189 experiments in the paper
 
